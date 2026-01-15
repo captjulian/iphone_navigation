@@ -1,2 +1,3 @@
 # iphone_navigation
-iphone_navigation_test
+git clone
+catkin_make 
