@@ -1,3 +1,3 @@
 # iphone_navigation
-git clone
+git clone #
 catkin_make 
