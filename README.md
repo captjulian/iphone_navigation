@@ -1,3 +1,8 @@
 # iphone_navigation
-git clone #
-catkin_make 
+git clone
+
+catkin_make
+
+运行asMagic
+
+roslaunch 
