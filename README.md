@@ -6,7 +6,7 @@ catkin_make
 运行asMagic
 
 roslaunch iphone_slam iphone_slam_0.launch (得到tf，注意现在的tf为下图所显示摆放，更改摆放方法，需要重新调整tf)
-
+![Demo0](image_1.jpeg)
 ![Demo1](image_2.jpeg)
 
 roslaunch iphone_slam depth_to_pc.launch (得到点云)
