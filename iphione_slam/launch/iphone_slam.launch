@@ -1,0 +1,8 @@
+<launch>
+    <node pkg="iphone_slam" type="iphoneros_new.py" name="phone_ros_bridge" output="screen" required="true">
+    </node>
+    <node pkg="iphone_slam" type="pub_iphone_trans.py" name="iphone_slam_tf" output="screen" required="true">
+    </node>
+    <node pkg="iphone_slam" type="pub_odom.py" name="tf_to_odometry" output="screen" required="true">
+    </node>
+</launch>
